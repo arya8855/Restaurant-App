@@ -18,8 +18,8 @@ const orderRoutes = require('./routes/orderRoutes');
 connectDB();
 
 const allowedOrigins = [
-  'https://restaurant-frontend-nine-lovat.vercel.app',
-  'https://user-frontend-henna-zeta.vercel.app',
+  'https://restaurant-app-nine-sooty.vercel.app',
+  'https://restaurant-app-nm94.vercel.app',
 ];
 
 app.use(
