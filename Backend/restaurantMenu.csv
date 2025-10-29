@@ -1,0 +1,101 @@
+_id,image,name,description,price,averageTime,category
+68fca7124160b8faac9c2cae,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761290526/products/hc1sorsfwd07kt3nj2lk.jpg,Cheese,Pizza,350,20,Pizza
+68fca7124160b8faac9c2caf,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761290527/products/wcj5rvw2qd6j3xfzwsqv.jpg,Hawaiian ,Pizza,499,20,Pizza
+68fca7124160b8faac9c2cb0,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761290528/products/uitndscfp2cgz5quita0.jpg,Jalapeno ,Pizza,399,20,Pizza
+68fca7124160b8faac9c2cb1,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761290529/products/qjahsx8jrreuzfjdsxdn.jpg,Makhani Panner ,Pizza,499,20,Pizza
+68fca7124160b8faac9c2cb2,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761290530/products/oryscravjvb12bxfntgo.jpg,Margherita ,Pizza,499,20,Pizza
+68fca7124160b8faac9c2cb3,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761290531/products/x9oitqtotlycujakjxbn.jpg,Panner Tikka ,Pizza,499,20,Pizza
+68fca7124160b8faac9c2cb4,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761290532/products/tf2leobgtaqvc53oi7wc.jpg,Pepperoni ,Pizza,499,20,Pizza
+68fca7124160b8faac9c2cb5,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761290533/products/g2qmvfvg6fpxvut6e9kd.jpg,Tandoori ,Pizza,499,20,Pizza
+68fca7124160b8faac9c2cb6,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761291506/products/ntvrw9oq4hiug5vtt2ty.jpg,BBQ Chicken ,Pizza,499,20,Pizza
+68fca7124160b8faac9c2cb7,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761291507/products/hi3wagjyipgqzkvs4xam.jpg,Buffalo Chicken ,Pizza,499,20,Pizza
+68fca7124160b8faac9c2cb8,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761291508/products/x0xhxpeikpp8xbwk6695.jpg,Meat Lover ,Pizza,499,20,Pizza
+68fca7124160b8faac9c2cb9,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761291509/products/ld5a77q5lybq4ceiokxc.jpg,Mushroom ,Pizza,499,20,Pizza
+68fca7124160b8faac9c2cba,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761291510/products/wwat65lc6yzykdm0igmu.jpg,New York ,Pizza,499,20,Pizza
+68fca7124160b8faac9c2cbb,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761291511/products/ku3do7ftbogcgcl948yt.jpg,Pesto Pizza,Pizza,499,20,Pizza
+68fca7124160b8faac9c2cbc,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761291512/products/katamcjxsm4g40lgqjxp.jpg,White Pizza,Pizza,499,20,Pizza
+68fca7124160b8faac9c2cbd,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761291513/products/ufyu0hctavbodrxwf6t4.jpg,Supreme Pizza,Pizza,499,20,Pizza
+68fca7124160b8faac9c2cbe,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761291514/products/dccefzlu16jnyhw94dkl.jpg,Sausage Pizza,Pizza,499,20,Pizza
+68fca7124160b8faac9c2cbf,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761291515/products/gzc9ta0ofmtqpxtvjzn6.jpg,Chicken Alfredo ,Pizza,499,20,Pizza
+68fca7124160b8faac9c2cc0,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761291516/products/xat0xfawmpyroikgrlyq.jpg,Philly Pizza,Pizza,499,20,Pizza
+68fca7124160b8faac9c2cc1,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296395/products/e4uekwvufg1myrk5suwn.jpg,Big Mac ,Burger,500,30,Burger
+68fca7124160b8faac9c2cc2,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296396/products/n77myrmznam0hqrygigw.jpg,Baconator ,Burger,500,30,Burger
+68fca7124160b8faac9c2cc3,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296397/products/achwtbsqpl9457ad33n8.jpg,Double Double ,Burger,500,30,Burger
+68fca7124160b8faac9c2cc4,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296398/products/toq3acr6vq2scp6ifeik.jpg,Whopper ,Burger,500,30,Burger
+68fca7124160b8faac9c2cc5,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296399/products/naq7pzpqookrefhhhckj.jpg,Shack ,Burger,500,30,Burger
+68fca7124160b8faac9c2cc6,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296400/products/bhq56sduor7qvkfsig15.jpg,Four Cheese ,Pizza,500,30,Pizza
+68fca7124160b8faac9c2cc7,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296402/products/vem1go68wjf2xeusv1rh.jpg,Buffer Burger,Burger,500,30,Burger
+68fca7124160b8faac9c2cc8,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296403/products/xa6axwq4poxe2x1fewmx.jpg,Ham Buger,Burger,500,30,Burger
+68fca7124160b8faac9c2cc9,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296404/products/lapr0laiwyntk715bha7.jpg,Mac Aloo Tikki,Burger,500,30,Burger
+68fca7124160b8faac9c2cca,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296405/products/l97rr7czveabgnzb8kbr.jpg,Panner Tikki ,Burger,500,30,Burger
+68fca7124160b8faac9c2ccb,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296406/products/etoo3sbylg33ktjkxh7s.jpg,BBQ Chicken ,Burger,500,30,Burger
+68fca7124160b8faac9c2ccc,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296407/products/yeaevxf9l4yvk8bzrccn.jpg,Chicken Salami ,Burger,500,30,Burger
+68fca7124160b8faac9c2ccd,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296408/products/bjt8ffafw325rbjy9gpt.jpg,Chicken Grill ,Burger,500,30,Burger
+68fca7124160b8faac9c2cce,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296409/products/u7svtn6c2bs2x3nq767s.jpg,Bacon Burger,Burger,500,30,Burger
+68fca7124160b8faac9c2ccf,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296409/products/uc8vlo4oz38xwye1optt.jpg,Cruncy Fried ,Burger,500,30,Burger
+68fca7124160b8faac9c2cd0,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296410/products/pr8cajeigjgk0fdjfsyt.jpg,Peri Peri Chicken,Burger,500,30,Burger
+68fca7124160b8faac9c2cd1,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296411/products/bopmwmbryhcsbxdjla0w.jpg,Beef ,Burger,500,30,Burger
+68fca7124160b8faac9c2cd2,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296412/products/uesdqfglridykcelscai.jpg,Panner Patty ,Burger,500,30,Burger
+68fca7124160b8faac9c2cd3,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296413/products/lkkxwv3muya3wpm4c4uh.jpg,Hawaiian ,Burger,500,30,Burger
+68fca7124160b8faac9c2cd4,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296414/products/xrm12pilpebqoesxsi21.jpg,Spicy Tandoori ,Burger,500,30,Burger
+68fca7124160b8faac9c2cd5,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761296415/products/nv9kg2nbnoltdlrudgyf.jpg,Creamy Mushroom ,Burger,500,30,Burger
+68fca7124160b8faac9c2cd6,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308843/products/w60wnqq8pxle591q07j0.jpg,Veg Spaghetti,Pasta,250,40,Pasta
+68fca7124160b8faac9c2cd7,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308844/products/yttaq3rzc14aqbcdoknh.jpg,Chicken ,Pasta,250,40,Pasta
+68fca7124160b8faac9c2cd8,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308845/products/o3grvyi19x06ucinqd22.jpg,BBQ Chicken ,Pasta,250,40,Pasta
+68fca7124160b8faac9c2cd9,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308846/products/dpfrcrzfdjktvuy30qqv.jpg,Cheesy ,Pasta,250,40,Pasta
+68fca7124160b8faac9c2cda,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308848/products/lhds20sbsmeisl2cz6wn.jpg,Veg Macaroni,Pasta,250,40,Pasta
+68fca7124160b8faac9c2cdb,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308849/products/io2j8iv5tqihxpicsp1j.jpg,Chicken ,Pasta,250,40,Pasta
+68fca7124160b8faac9c2cdc,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308850/products/uiwutvpg3e0gpzknl7gu.jpg,BBQ Chicken ,Pasta,250,40,Pasta
+68fca7124160b8faac9c2cdd,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308851/products/qqglqcntukpfakuyweiu.jpg,Cheesy ,Pasta,250,40,Pasta
+68fca7124160b8faac9c2cde,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308852/products/tdrura8mqrx6nlynfubc.jpg,Veg Penne ,Pasta,250,40,Pasta
+68fca7124160b8faac9c2cdf,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308853/products/y6zsyoheb8debbfinnhi.jpg,Chicken Penne ,Pasta,250,40,Pasta
+68fca7124160b8faac9c2ce0,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308854/products/bnifwnxffip8lnrfiyic.jpg,BBQ Chicken ,Pasta,250,40,Pasta
+68fca7124160b8faac9c2ce1,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308855/products/jnbdx8cnwdm4bj9hueat.jpg,Cheesy Penne ,Pasta,250,40,Pasta
+68fca7124160b8faac9c2ce2,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308856/products/hyfp1axbngobu5fjv0il.jpg,Apple Juice,Drinks,300,10,Drinks
+68fca7124160b8faac9c2ce3,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308857/products/bx2k7la7cym3gxcoqrpn.jpg,Banana Juice,Drinks,300,10,Drinks
+68fca7124160b8faac9c2ce4,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308858/products/pjbynn3a4o5w3awzcpd3.jpg,Grape Fruit Juice,Drinks,300,10,Drinks
+68fca7124160b8faac9c2ce5,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308859/products/h9bx2rnzjtdc6b9bbp76.jpg,PineApple Juice,Drinks,300,10,Drinks
+68fca7124160b8faac9c2ce6,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308860/products/tfuariidt7qxfzuwl7kk.jpg,Mango Juice,Drinks,300,10,Drinks
+68fca7124160b8faac9c2ce7,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308861/products/bztslgxfrhwoetycuog2.jpg,Cappuccino,Drinks,300,10,Drinks
+68fca7124160b8faac9c2ce8,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308861/products/xgdybdglbmdchvlhrbqo.jpg,Espresso,Drinks,300,10,Drinks
+68fca7124160b8faac9c2ce9,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308862/products/jshvaoarku1fsscmxxyv.jpg,Latte,Drinks,300,10,Drinks
+68fca7124160b8faac9c2cea,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308863/products/qxmjqeyjfasgiuvvvj4i.jpg,Mocha,Drinks,300,10,Drinks
+68fca7124160b8faac9c2ceb,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308864/products/us3xim8u1h9rservmxdv.jpg,Americano,Drinks,300,10,Drinks
+68fca7124160b8faac9c2cec,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308866/products/jtc3r4ayfks1pcsjldmr.jpg,Hot Chocolate,Drinks,300,10,Drinks
+68fca7124160b8faac9c2ced,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308867/products/bgusfyxza8exv2m3rki1.jpg,Green Tea,Drinks,300,10,Drinks
+68fca7124160b8faac9c2cee,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308868/products/l9ldgujptrwf5ryrxhya.jpg,Frappe,Drinks,300,10,Drinks
+68fca7124160b8faac9c2cef,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308869/products/trnx3dab8fbnyfeqaevz.jpg,Dark Chocolate Thickshake,Drinks,300,10,Drinks
+68fca7124160b8faac9c2cf0,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308870/products/ixj0cyel0hads2oatkyj.jpg,French Fries,Quick Bites,100,15,Snacks
+68fca7124160b8faac9c2cf1,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308871/products/vwjwp1ojqrcsuzeuvzr6.jpg,Peri Peri French Fries,Quick Bites,100,15,Snacks
+68fca7124160b8faac9c2cf2,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308872/products/ra88cfwxlvpewtquzmvi.jpg,Cheesy Fries,Quick Bites,100,15,Snacks
+68fca7124160b8faac9c2cf3,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308874/products/gstl9lfq89tq5ptjg8ra.jpg,Samosa,Quick Bites,100,15,Snacks
+68fca7124160b8faac9c2cf4,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308875/products/xeyvcshospsmfeqrz4sx.jpg,Corn Samosa,Quick Bites,100,15,Snacks
+68fca7124160b8faac9c2cf5,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308876/products/i9n9vektesbrbihwtmef.jpg,Hot Dog,Quick Bites,100,15,Snacks
+68fca7124160b8faac9c2cf6,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308877/products/s6saybhjw6syfxuwb7jk.jpg,Dosa,Tiffins,80,18,Tiffins
+68fca7124160b8faac9c2cf7,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308878/products/lerpkwuthjts0pvsvclr.jpg,Masala Dosa,Tiffins,80,18,Tiffins
+68fca7124160b8faac9c2cf8,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308879/products/ep3wxlsqw57wqkbjgqr7.jpg,Set Dosa,Tiffins,80,18,Tiffins
+68fca7124160b8faac9c2cf9,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308880/products/ipkobzmv1ctfmoqarx3m.jpg,Uttapam,Tiffins,80,18,Tiffins
+68fca7124160b8faac9c2cfa,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308881/products/nhwkpsex0qtlpnu0e247.jpg,Idly,Tiffins,80,18,Tiffins
+68fca7124160b8faac9c2cfb,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308882/products/ynxlexjzmppwrwiul8gw.jpg,Vada,Tiffins,80,18,Tiffins
+68fca7124160b8faac9c2cfc,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308883/products/gsgwvtoed1mi9l2qfzdm.jpg,Bonda,Tiffins,80,18,Tiffins
+68fca7124160b8faac9c2cfd,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308884/products/v0uqzhnlyaha1krlbm10.jpg,Upma,Tiffins,80,18,Tiffins
+68fca7124160b8faac9c2cfe,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308884/products/dfl016m8ycqwz4gzp8p6.jpg,Poha,Tiffins,80,18,Tiffins
+68fca7124160b8faac9c2cff,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308885/products/qhylr9ualjb4guyoycdb.jpg,Pongal,Tiffins,80,18,Tiffins
+68fca7124160b8faac9c2d00,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308887/products/jln6zdawtghpxcvmiz6x.jpg,Biryani,Meals,350,60,Meals
+68fca7124160b8faac9c2d01,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308888/products/ddi34es6qenhgsieql4s.jpg,Dum Biryani,Meals,350,60,Meals
+68fca7124160b8faac9c2d02,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308889/products/ib398bics2ica41qnch7.jpg,Fried Rice,Meals,350,60,Meals
+68fca7124160b8faac9c2d03,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308890/products/u0pje1cgtjoes07j1vwk.jpg,Panner Fried Rice,Meals,350,60,Meals
+68fca7124160b8faac9c2d04,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308892/products/fao8lpnh1xlavvxy61wx.jpg,Panner Biryani,Meals,350,60,Meals
+68fca7124160b8faac9c2d05,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308892/products/z9fjb2hb72ndnzrilw7o.jpg,Jackfruit Biryani,Meals,350,60,Meals
+68fca7124160b8faac9c2d06,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308893/products/k9qgmcotepvp2b8cp1pm.jpg,Chicken Biryani,Meals,350,60,Meals
+68fca7124160b8faac9c2d07,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308894/products/txczlpsmdvsmyznhjxbe.jpg,Chicken Dum Biryani,Meals,350,60,Meals
+68fca7124160b8faac9c2d08,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308895/products/oohawsu3u24ctoyprd0r.jpg,Mutton Biryani,Meals,350,60,Meals
+68fca7124160b8faac9c2d09,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308896/products/zhrozpd5gfvppqxf3ewq.jpg,Gobi Machuriya,Starters,250,30,Starters
+68fca7124160b8faac9c2d0a,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308897/products/g6k5m1qdbegwjg0qpnmq.jpg,Baby Corn Manchuriya,Starters,250,30,Starters
+68fca7124160b8faac9c2d0b,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308899/products/sudtrpbwloqzjkycxs3w.jpg,Veg Manchuriya,Starters,250,30,Starters
+68fca7124160b8faac9c2d0c,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308900/products/hpi3zvt2bpppj4erpn7r.jpg,Crispy Corn,Starters,250,30,Starters
+68fca7124160b8faac9c2d0d,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308901/products/bxvfew4iyomxqnw9jacb.jpg,Panner Tikka,Starters,250,30,Starters
+68fca7124160b8faac9c2d0e,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308902/products/a6tdimljkkwdwn5csp6k.jpg,Smoky Panner Tikka,Starters,250,30,Starters
+68fca7124160b8faac9c2d0f,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308903/products/idozbhu3t2ov9qrenotn.jpg,Veg 65,Starters,250,30,Starters
+68fca7124160b8faac9c2d10,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761308904/products/iqf3hvexvqhojgdhwxs2.jpg,Chicken Masala Fry,Starters,250,30,Starters
+68fca7124160b8faac9c2d11,https://res.cloudinary.com/dwuzavzgl/image/upload/v1761309120/products/zxftnpuqt24opgczvcn1.jpg,Gobi 65,Starters,250,30,Starters

@@ -1,0 +1,35 @@
+
+@media only screen and (max-width: 480px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html, body {
+    height: 100%;
+    font-family: "DM Sans", sans-serif;
+    overflow-y: auto; 
+    -webkit-overflow-scrolling: touch; 
+    background-color: #f9f9f9;
+  }
+
+  .app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 20px;
+  }
+
+  .headings h2 {
+    font-size: 32px;
+    margin-bottom: 5px;
+    color: #222;
+  }
+
+  .headings h3 {
+    font-size: 23px;
+    margin-bottom: 15px;
+    color: #555;
+  }
+}
