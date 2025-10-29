@@ -18,11 +18,25 @@ const orderRoutes = require('./routes/orderRoutes');
 connectDB();
 
 const allowedOrigins = [
-  'http://localhost:5173',
-  'http://localhost:5174',
+  'https://restaurant-frontend-nine-lovat.vercel.app',
+  'https://user-frontend-henna-zeta.vercel.app',
 ];
 
-app.use(cors({ origin: allowedOrigins, credentials: true }));
+app.use(
+  cors({
+    origin: function (origin, callback) {
+      if (!origin) return callback(null, true);
+
+      if (allowedOrigins.includes(origin)) {
+        callback(null, true);
+      } else {
+        console.log("CORS blocked for:", origin);
+        callback(new Error("Not allowed by CORS"));
+      }
+    },
+    credentials: true,
+  })
+);
 
 app.use('/api/dishes', dishRoutes);
 app.use('/api/chefs', chefRoutes);

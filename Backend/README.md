@@ -19,7 +19,7 @@ menu management, order tracking, chef assignment, table reservations, and seed d
 
 ### 1️⃣ Clone or Copy the Project
 ```bash
-git clone https://github.com/arya8855/Restaurant-App.git
+git clone https://github.com/arya8855/FinalEvaluation-Backend.git
 cd Final Evaluation-backend
 ```
 
