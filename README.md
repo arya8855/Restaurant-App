@@ -6,9 +6,9 @@ The project includes a Node.js + Express backend and two separate React frontend
 🚀 Live Links
 Backend (API Server): https://restaurant-app-tv2z.onrender.com
 
-User Frontend (Restaurant App): https://restaurant-app-a2jd.vercel.app
+Restaurant Dashboard : https://restaurant-app-a2jd.vercel.app
 
-Restaurant Dashboard (User App): https://restaurant-app-oela.vercel.app/
+User Frontend : https://restaurant-app-oela.vercel.app/
 
 🧩 Features
 User Frontend
