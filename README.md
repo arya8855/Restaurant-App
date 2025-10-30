@@ -65,7 +65,7 @@ CORS, dotenv, cloudinary, multer
 
  Installation & Setup (Local)
 1️⃣ Clone the repository
-git clone https://github.com/your-username/restaurant-app.git
+git clone https://github.com/arya8855/Restaurant-App.git
 cd restaurant-app
 
 2️⃣ Setup Backend
