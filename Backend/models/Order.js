@@ -12,7 +12,7 @@ const dishOrderedSchema = new mongoose.Schema({
 const orderSchema = new mongoose.Schema({
     customerName: { type: String, required: true },
     customerMobileNumber: { type: String, required: true },
-    numberOfPeople: { type: Number, required: true },
+    numberOfPeople: { type: Number, default: null },
     dishOrdered: { type: [dishOrderedSchema], required: true },
     orderType: { type: String, enum: ['Dine In', 'Take Away', 'Served'], required: true },
     customerAddress: { type: String, default: null },

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../Style/home.css"; 
+import "../Style/main.css"; 
 
 function Instructions() {
   const [showModal, setShowModal] = useState(false);

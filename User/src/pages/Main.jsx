@@ -4,8 +4,8 @@ import Order from "../components/Order";
 import Instructions from "../components/Instruction";
 import DineIn from "../components/DineIn";
 import TakeAway from "../components/TakeAway";
-import { FaArrowRight } from "react-icons/fa";
-import "../Style/home.css";
+import { FaArrowRight, FaSearch } from "react-icons/fa";
+import "../Style/main.css";
 
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
@@ -73,27 +73,24 @@ function Main() {
         return;
       }
 
-      const dishOrdered = Object.entries(items).map(([_, dish]) => ({
-        dishId: dish._id,
-        dishName: dish.name,
-        dishCategory: dish.category || "Uncategorized",
-        dishPrice: dish.price,
-        dishPrepTime: dish.time || 10,
-        dishQuantity: dish.quantity,
+      const orderItems = Object.entries(items).map(([name, details]) => ({
+        name,
+        quantity: details.quantity,
+        category: details.category,
+        price: details.price,
       }));
-
+      
       const orderBody = {
-        customerName: userDetails.name,
-        customerMobileNumber: userDetails.phoneNumber,
-        numberOfPeople: userDetails.numberOfPeople,
-        dishOrdered,
+        customerName: userDetails.customerName || userDetails.name,
+        customerMobileNumber: userDetails.customerMobileNumber || userDetails.phoneNumber,
+        numberOfPeople: selectedOption === "DineIn" ? userDetails.numberOfPeople : null,
+        orderItems,
         orderType: selectedOption === "DineIn" ? "Dine In" : "Take Away",
-        customerAddress:
-          selectedOption === "TakeAway" ? userDetails.address : null,
+        customerAddress: selectedOption === "TakeAway" ? userDetails.customerAddress || userDetails.address : null,
         orderPrice: totalPrice,
         orderPrepTime: avgPrepTime,
         orderCookingInstructions: instructions,
-        orderNumber: Math.floor(Math.random() * 100000), 
+        orderNumber: Math.floor(Math.random() * 100000),
       };
 
       const res = await fetch(`${import.meta.env.VITE_BASE_URL}/api/orders`, {
@@ -148,9 +145,18 @@ function Main() {
   return (
     <div className="app-container">
       <div className="headings">
-        <h2>Welcome 😊</h2>
+        <h2>Welcome</h2>
         <h3>Place your order here...</h3>
       </div>
+      <div className="searchbar-container">
+          <FaSearch className="search-icon" />
+          <input
+            type="text"
+            placeholder="Search..."
+            className="searchbar-input"
+            disabled
+          />
+        </div>
 
       <Order count={items} setCount={setItems} />
 

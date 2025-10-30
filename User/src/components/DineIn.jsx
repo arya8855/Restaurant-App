@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import '../Style/home.css';
+import '../Style/main.css';
 
 function DineIn({ total }) {
   const [userDetails, setUserDetails] = useState({

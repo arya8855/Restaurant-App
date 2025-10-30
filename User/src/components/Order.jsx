@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { FaPlus, FaMinus } from "react-icons/fa6";
-import "../Style/home.css";
+import "../Style/main.css";
 
 function Ordered({ count, setCount, onTotalChange }) { 
   const [data, setData] = useState({ ...count });

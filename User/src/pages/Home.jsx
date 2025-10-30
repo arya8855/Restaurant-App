@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from "react";
-import '../Style/main.css';
+import '../Style/home.css';
 import Display from "../components/Display";
 import Signin from "../components/SignIn";
+import { FaSearch } from "react-icons/fa";
 
 function Home() {
   const [selectedCategory, setSelectedCategory] = useState("");
@@ -32,6 +33,7 @@ function Home() {
       </div>
 
       <div className="searchbar">
+        <FaSearch className="search-icon" />
         <form onSubmit={(e) => e.preventDefault()}>
           <input
             type="text"
