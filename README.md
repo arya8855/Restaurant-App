@@ -8,7 +8,7 @@ Backend (API Server): https://restaurant-app-tv2z.onrender.com
 
 Restaurant Dashboard : https://restaurant-app-a2jd.vercel.app
 
-User Frontend : https://restaurant-app-oela.vercel.app/
+User Frontend : https://restaurant-app-oela.vercel.app
 
 🧩 Features
 User Frontend
