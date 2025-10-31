@@ -123,30 +123,6 @@ const Analytics = () => {
     return { day: dayLabel, revenue };
   });
 
-  // ====== TABLES GRID ======
-  const renderTableRows = () => {
-    const rows = [];
-    for (let i = 0; i < tables.length; i += 7) {
-      const rowTables = tables.slice(i, i + 7);
-      rows.push(
-        <div className="table-row" key={i}>
-          {rowTables.map((table) => (
-            <div
-              key={table._id}
-              className="table-square"
-              style={{
-                backgroundColor: table.bookingStatus === 'B' ? '#28a745' : '#d3d3d3',
-              }}
-            >
-              <span>Table {table.fakeNumber}</span>
-            </div>
-          ))}
-        </div>
-      );
-    }
-    return rows;
-  };
-
   return (
     <div className="analytics-container">
       <h1>Analytics</h1>
@@ -297,7 +273,7 @@ const Analytics = () => {
                   className={`table-square ${t.tableStatus === 'A' ? 'available' : 'booked'}`}
                 >
                   <div>Table</div>
-                  <span>{t.tableName}</span>
+                  <span>{t.tableNumber}</span>
                 </div>
               ))}
             </div>

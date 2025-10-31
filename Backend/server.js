@@ -19,7 +19,7 @@ connectDB();
 
 const allowedOrigins = [
     'https://restaurant-app-a2jd.vercel.app',
-    'https://restaurant-app-oela.vercel.app'
+    'https://restaurant-app-oela.vercel.app',
 ];
 
 app.use(

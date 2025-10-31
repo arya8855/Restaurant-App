@@ -9,7 +9,7 @@ const TableUnit = ({ table, onDelete }) => {
             <button className="delete-btn" onClick={() => onDelete(table._id)}>
                 <RiDeleteBin6Line />
             </button>
-            <span className="chair-count">{table.chairCount} chairs</span>
+            <span className="chair-count">{table.tableSize} chairs</span>
         </div>
     );
 };

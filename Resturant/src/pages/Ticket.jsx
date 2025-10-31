@@ -101,7 +101,6 @@ const Ticket = ({ order }) => {
                     }  
                 </button>
             </div>
-
         </div>
     );
 };
